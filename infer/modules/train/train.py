@@ -541,7 +541,6 @@ def train_and_evaluate(epoch, hps, nets, optims, schedulers, scaler, loaders, lo
                 )
             )
         )
-        ttime.sleep(1)
         os._exit(2333333)
 
 if __name__ == "__main__":
