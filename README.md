@@ -8,6 +8,8 @@ This repo is a dirty (and I mean really dirty) quick fix for running RVC on Appl
 + **No** error handling, compatibility check, failure recovery, etc.. whatsoever.
 + **DO NOT USE THIS REPO UNLESS YOU'RE RUNNING IT ON APPLE SILICON**.
 
+## Installation and Usage
+Please visit the [original repo](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) for installation and usage instructions.
 ## Test Gig
 Tested on MacBook Pro M3Max running MacOsX Sonoma 14.4
 
